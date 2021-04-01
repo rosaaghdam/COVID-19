@@ -17,6 +17,7 @@ File "Cluster_features.xlsx" contains list of the  repurposing candidates and th
 
 
 First, we use two algorithms [Algorithm1 folder and Algorithm2 folder] to find the candidate set of proteins from biological networks that lead to a major disruption in the network.
+
 To run the Algorithm1 follow the Readme.txt steps in Algorithm1 Folder. See the output of Algorithm1 in "Essential_Proteins_related_to_Covid_19.xlsx" file in sheet name output_Cut1.
 
 To run the Algorithm2 follow the Readme.txt steps in Algorithm2 Folder. See the output of Algorithm2 in "Essential_Proteins_related_to_Covid_19.xlsx" file in sheet name output_Cut2.
