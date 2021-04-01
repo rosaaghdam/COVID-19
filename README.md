@@ -5,6 +5,7 @@ Descripotion:
 This repository contains the data and MATLAB code for the  "Using Informative Features in Machine Learning Based Method for COVID-19 Drug Reporpusing" paper:
 
 Data set:
+
 File "All interaction.xlsx" contains 304,730 interactions between 25,260 proteins in Human cells.
 
 File "Process related to 332 proteins.xlsx" contains 1,374 Informative Biological Processes (IBP) Gene Ontology (GO) terms as high confidence SARS-Cov-2 human protein-protein intraction (PPI).
