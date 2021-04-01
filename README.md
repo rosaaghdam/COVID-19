@@ -12,7 +12,7 @@ File "Process related to 332 proteins.xlsx" contains 1,374 Informative Biologica
 
 File "List name proteins.xlsx" contains 25,260 proteins in PPI network.
 
-File "Drug_Cluster_features.xlsx"  contains list of the repositioning candidates and their features in #Cluster1,#Cluster2, #Cluster3, #Cluster4 and #Cluster5.
+File "Cluster_features.xlsx"  contains list of the repositioning candidates and their features in #Cluster1,#Cluster2, #Cluster3, #Cluster4 and #Cluster5.
 
 
 
