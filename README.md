@@ -23,3 +23,4 @@ To run the Algorithm1 follow the Readme.txt steps in Algorithm2 Folder. See the 
 Next, we identify proteins in our candidate set that are associated with some underlying diseases related to COVID-19. We select 93 proteins as a final set of essential proteins related to disease pathology. 
 To access the 93 proteins see Essential_Protein_related_to_Covid_19_Pathology.xlsx file in sheet name "E".
 
+Finally, we evaluated these proteins with respect to the related pathways with DAVID tools (see "Pathways.xlsx" file).
